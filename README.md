@@ -1,8 +1,6 @@
 <!-- omit in toc -->
 # Building a Complex, Production-Ready RAG System
 
-You can follow me on medium: [Fareed Khan](https://medium.com/@fareedkhandev)
-
 Building a production-ready RAG system involves a series of thoughtful and iterative steps.
 
 1.  It all starts with **cleaning** and **preparing** thse data, followed by testing different chunking strategies both **logical** and **traditional** to find what works best for your use case.
